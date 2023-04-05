@@ -1,4 +1,4 @@
 # Pong-Game-
 
-![resim açıklaması](https://i.hizliresim.com/5lmsivb.png)
-![resim açıklaması](resim URL'si)
+https://i.hizliresim.com/5lmsivb.png
+https://www.hizliresim.com/h19uzrg
